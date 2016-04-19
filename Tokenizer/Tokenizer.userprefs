@@ -1,0 +1,27 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Tests\Tests.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests\Test.cs">
+    <Files>
+      <File FileName="Tokenizer\TextTokenizer.cs" Line="58" Column="60" />
+      <File FileName="Tests\Test.cs" Line="68" Column="28" />
+      <File FileName="Tokenizer\TokenizerException.cs" Line="5" Column="33" />
+      <File FileName="Tokenizer\Token.cs" Line="12" Column="43" />
+      <File FileName="Tests\packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Tokenizer" expanded="True">
+            <Node name="Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Volodymyr\Documents\Projects\Tokenizer\TokinizerTests\Test.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
